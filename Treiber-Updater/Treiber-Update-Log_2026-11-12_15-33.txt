@@ -1,0 +1,30 @@
+﻿**********************
+nStart der Windows PowerShell-Aufzeichnung
+Startzeit: 20261112153357
+Benutzername: DESKTOP-5MDILG6\Lordd
+RunAs-Benutzer: DESKTOP-5MDILG6\Lordd
+Konfigurationsname: 
+Computer: DESKTOP-5MDILG6 (Microsoft Windows NT 10.0.26300.0)
+Hostanwendung: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Users\Lordd\Downloads\Treiber-Updater\Treiber-Updater.ps1
+Prozess-ID: 8796
+PSVersion: 5.1.26100.9818
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9818
+BuildVersion: 10.0.26100.9818
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+
+==============================================
+            T R E I B E R - U P D A T E R
+==============================================
+
+Suche nach neuen Treibern über Windows Update (kann 1-3 Minuten dauern) ...
+
+Alles aktuell - Windows Update hat keine neuen Treiber gefunden.
+**********************
+Ende der Windows PowerShell-Aufzeichnung
+Endzeit: 20261112153438
+**********************
